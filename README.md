@@ -4,13 +4,13 @@
 
 **Projenin İçeriği:**
 
--Yönetici tarafından sistemde tanımlı adres bölgesine emlak tanımı ekleme, silme ve güncelleme hizmeti .
+- Yönetici tarafından sistemde tanımlı adres bölgesine emlak tanımı ekleme, silme ve güncelleme hizmeti .
 
--Kullanıcı ve yönetici olmak üzere sistemde iki seviyeli üyelik mevcuttur. Yeni kullanıcılar için ise üye olma kısmı bulunur. Aynı zamanda üyelerin de kaydı tutulur.
+- Kullanıcı ve yönetici olmak üzere sistemde iki seviyeli üyelik mevcuttur. Yeni kullanıcılar için ise üye olma kısmı bulunur. Aynı zamanda üyelerin de kaydı tutulur.
 
--Yönetici tarafından emlak tanımı ve ev sahibi ile ilgili işlemler yapılabilir. Kullanıcılar ise istediği kriterde ki evi sorgulayabilir.
+- Yönetici tarafından emlak tanımı ve ev sahibi ile ilgili işlemler yapılabilir. Kullanıcılar ise istediği kriterde ki evi sorgulayabilir.
 
--Emlak tanımı ;ev türü, ev alanı, evin durumu, oda sayısı gibi bilgilerle tanımlanmıştır.
+- Emlak tanımı ;ev türü, ev alanı, evin durumu, oda sayısı gibi bilgilerle tanımlanmıştır.
 
 **Projede Kullanılan Programlar:**
 
