@@ -17,3 +17,5 @@
 Görsel programlama açısından yeterli olanaklar sağladığı için arayüz olarak C# kullanılmıştır.
 
 Veri tabanı sistemi için Microsoft SQL SERVER Management Studio kullanılmıştır.
+
+w/yazici-hatice
