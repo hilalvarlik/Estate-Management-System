@@ -18,4 +18,4 @@ Görsel programlama açısından yeterli olanaklar sağladığı için arayüz o
 
 Veri tabanı sistemi için Microsoft SQL SERVER Management Studio kullanılmıştır.
 
-w/yazici-hatice
+**w/yazici-hatice**
