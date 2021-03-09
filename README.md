@@ -1,8 +1,8 @@
 ## Emlak Otomasyonu
 
-**Projenin Konusu:** Belirlenmiş bir adres bölgesinde veri tabanı sistemi ile çalışan site emlak yönetimi.
+Belirlenmiş bir adres bölgesinde veri tabanı sistemi ile çalışan site emlak yönetimi tasarlanmıştır.
 
-**Projenin İçeriği**
+**İçeriğinde;**
 
 - Yönetici tarafından sistemde tanımlı adres bölgesine emlak tanımı ekleme, silme ve güncelleme hizmeti .
 
@@ -13,3 +13,6 @@
 - Emlak tanımı ;ev türü, ev alanı, evin durumu, oda sayısı gibi bilgilerle tanımlanmıştır.
 
 
+![image](https://user-images.githubusercontent.com/50299378/110518765-9512bd00-811d-11eb-96d4-4d7f524cb814.png) <br>
+![image](https://user-images.githubusercontent.com/50299378/110518787-9d6af800-811d-11eb-877f-3886f44b86a8.png) <br>
+![image](https://user-images.githubusercontent.com/50299378/110518802-a3f96f80-811d-11eb-878b-73c1a4746fe0.png)
