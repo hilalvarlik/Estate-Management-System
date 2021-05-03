@@ -1,7 +1,7 @@
-## Emlak Otomasyonu
-Belirlenmiş bir adres bölgesinde site emlak yönetimi veri tabanı sistemi. Sistemde tanımlı adres bölgesine emlak tanımı ekleme, silme ve güncelleme hizmeti verilmiştir. Kullanıcı ve yönetici olmak üzere sistemde iki seviyeli üyelik mevcuttur. Yeni kullanıcılar için ise üye olma kısmı bulunur. Aynı zamanda üyelerin de kaydı tutulur.
-Yönetici tarafından emlak tanımı yapılabilir. Aynı zamanda ev sahibi ile ilgili işlemleri yapabilir. Kullanıcılar ise istediği kriterdeki evi sorgulayabilir.
-Emlak tanımı ev türü, ev alanı, evin durumu, oda sayısı vb. gibi bilgilerle tanımlanır. 
+## Estate Management System
+Site property management database system in a designated address area. The service of adding, deleting and updating real estate definition to the address area defined in the system has been provided. There are two levels of membership in the system, user and administrator. For new users, there is a sign-up section. At the same time, members are also registered.
+Real estate definition can be made by the manager. At the same time, it can perform transactions related to the landlord. Users can query the house in any criterion.
+Property description is the type of house, house area, house condition, number of rooms, etc. It is defined with information such as.
 
 ---
 
